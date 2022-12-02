@@ -6,3 +6,4 @@ Party Mix Edition means that I'll be using a different programming language for 
 the 25 coding challenges.
 
 Day 1: [NodeJS](./01)
+Day 2: [Haskell](./02)
