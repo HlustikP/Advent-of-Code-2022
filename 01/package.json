@@ -1,0 +1,12 @@
+{
+  "name": "advent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_script.js",
+  "scripts": {
+    "start": "node ./01_script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
