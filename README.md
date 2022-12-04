@@ -11,4 +11,6 @@ Day 2: [Haskell](./02)
 
 Day 3: [Bash](./03)
 
-Day 4: tbd
+Day 4: [Perl](./04)
+
+Day 5: tbd
