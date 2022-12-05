@@ -13,4 +13,6 @@ Day 3: [Bash](./03)
 
 Day 4: [Perl](./04)
 
-Day 5: tbd
+Day 5: [Kotlin](./05)
+
+Day 6: [tbd](./06)
