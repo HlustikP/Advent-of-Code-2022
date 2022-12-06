@@ -16,3 +16,5 @@ Day 4: [Perl](./04)
 Day 5: [Kotlin](./05)
 
 Day 6: [Lua](./06)
+
+Day 7: [tbd](./07)
