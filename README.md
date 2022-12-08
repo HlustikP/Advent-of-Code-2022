@@ -17,4 +17,6 @@ Day 5: [Kotlin](./05)
 
 Day 6: [Lua](./06)
 
-Day 7: [tbd](./07)
+Day 7: [Python](./07)
+
+Day 8: [Nim](./08)
