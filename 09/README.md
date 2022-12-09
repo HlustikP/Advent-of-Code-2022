@@ -1,0 +1,1 @@
+Run with `go run ./day09.go FILENAME TAILSIZE` where `FILENAME` is the file to be opened and `TAILSIZE` is the size of the tail (only values > 1 are valid).
