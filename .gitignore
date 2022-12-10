@@ -2,3 +2,7 @@
 .idea/
 */out/
 */alterntives/
+*/*.pdb
+*/*.exe
+*/*.obj
+*/*.obj

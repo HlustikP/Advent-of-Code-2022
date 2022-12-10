@@ -22,3 +22,5 @@ Day 7: [Python](./07)
 Day 8: [Nim](./08)
 
 Day 9: [Go](./09)
+
+Day 10: [Zig](./10)
